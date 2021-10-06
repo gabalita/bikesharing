@@ -1,4 +1,4 @@
-# bikesharing
+# Citi Bike Analysis for August 2019 Data
 
 # Overview of the analysis: Explain the purpose of this analysis.
 The purpose of this analysis is to gather insights from the NYC Citi Bike program in order to inform a potential new business in Des Moines, Iowa. 
