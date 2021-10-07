@@ -6,6 +6,9 @@ The purpose of this analysis is to gather insights from the NYC Citi Bike progra
 # Results:
 The analysis was done in Tableau. Within the following slides, we describe the question and results for each visualization.
 
+Link to dashboard: https://public.tableau.com/app/profile/gabriella.chen/viz/AnalysisofCitiBikeUsageinNYC/CitiBikeStory
+Link to dashboard: https://public.tableau.com/app/profile/gabriella.chen/viz/CitiBikeAnalysisAugust2019/CitiBikeStory
+
 <img width="1387" alt="Bike Story 1" src="https://user-images.githubusercontent.com/10199828/136282319-08696e52-ee9f-49d3-b7dd-ebc5fc255950.png">
 <img width="1373" alt="Bike Story 2" src="https://user-images.githubusercontent.com/10199828/136282333-3ab6401a-3b42-492b-acb2-666648b302b3.png">
 <img width="1418" alt="Bike Story 3" src="https://user-images.githubusercontent.com/10199828/136282340-e7536129-9ecd-48f3-90e2-aa33f0c751ca.png">
@@ -27,3 +30,5 @@ The visualizations show the following results:
  - Most common trips from one borough to another (e.g. Manhattan to Brooklyn, Bronx to Manhattan)
  - Bike usage over months in a year 
  - Bike usage vs temperature 
+
+
